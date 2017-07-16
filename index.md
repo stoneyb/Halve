@@ -1,10 +1,14 @@
 ---
 layout: home
 ---
-# About Theme
+# About 
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+Hi, my name is Tom, a software engineer in Denver.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+Take a look at some of my past and current projects.
+
+I'm always open to projects and opportunities, checkout out my resume.
+
+Feel free to contact me on twitter or via email.
 
 If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
