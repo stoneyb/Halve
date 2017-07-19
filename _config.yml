@@ -1,6 +1,6 @@
 # Site
 title: Tom Stoneberg
-description: software engineer in Denver
+description: a software engineer in denver
 url: https://stoneyb.github.io
 logo: logo.png                                       # Site logo
 locale: en_US
@@ -33,11 +33,11 @@ email:              tstoneb@gmail.com
 #google.plus:        username
 twitter:            tstoneb
 #facebook:           username
-github:             stonyeb
+github:             stoneyb
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-#instagram:          username
+instagram:          thestoneyb
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
@@ -51,7 +51,7 @@ github:             stonyeb
 #codepen:           username
 #keybase:           username
 #xmpp:              username@server.com
-#hackernews:        username
+#hackernews:         stoneyb
 #behance:           username
 
 # Gems
